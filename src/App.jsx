@@ -16,9 +16,9 @@ function App() {
           <Col>
             <CustomCard 
               dogName="Doggo"
-              dogImg="https://placedog.net/200" 
+              dogImg="https://placedog.net/220" 
               dogDesc="nice doggo" 
-              tagText="Mongriel" 
+              tagText="Labrador" 
               tagColor="primary"
             />
           </Col>
@@ -27,16 +27,16 @@ function App() {
               dogName="Ol' MacDonald"
               dogImg="https://placedog.net/225"
               dogDesc="nice doggo"
-              tagText="Labrador"
+              tagText="Mutt"
               tagColor="secondary"
             />
           </Col>
           <Col>
             <CustomCard 
               dogName="Lady Rover"
-              dogImg="https://placedog.net/250"
+              dogImg="https://placedog.net/255"
               dogDesc="nice doggo"
-              tagText="Dalmatian"
+              tagText="Chihuahua"
               tagColor="success"
             />
           </Col>
@@ -45,7 +45,7 @@ function App() {
               dogName="Bark Twain"
               dogImg="https://placedog.net/275"
               dogDesc="nice doggo"
-              tagText="Boxer"
+              tagText="Husky"
               tagColor="info"
             />
           </Col>
